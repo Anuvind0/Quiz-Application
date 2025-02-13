@@ -1,0 +1,1 @@
+The Quiz Application is a simple platform that allows users to take quizzes on various topics, track scores, and view results. It features user registration and login, multiple-choice and true/false questions, timed quizzes, and result analysis
